@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Juego
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+comment2.params=tablero
+comment2.target=boolean\ empate(char[])
+comment3.params=pos\ tablero
+comment3.target=char[]\ marcarM(int,\ char[])
+comment4.params=pos\ tablero
+comment4.target=char[]\ marcarH(int,\ char[])
+comment5.params=tablero
+comment5.target=char[]\ relleno(char[])
+comment6.params=tablero
+comment6.target=void\ printer(char[])
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=
+comment1.target=Tablero()
+comment2.params=tablero
+comment2.target=int\ mejorMovimiento(char[])
+comment3.params=tablero
+comment3.target=int\ movDisponibles(char[])
+comment4.params=tablero
+comment4.target=int[]\ posicionesVacias(char[])
+comment5.params=raiz
+comment5.target=void\ IA(Nodo)
+comment6.params=raiz
+comment6.target=int\ Max(Nodo)
+comment7.params=raiz
+comment7.target=int\ Min(Nodo)
+comment8.params=tablero
+comment8.target=int\ ganadorAbsoluto(char[])
+numComments=9
